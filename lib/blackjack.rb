@@ -57,6 +57,6 @@ def runner
   until sum > 21
   end_game(sum)
 end	
-"Sorry, you hit 30. Thanks for playing!"
 end
+return "Sorry, you hit 30. Thanks for playing!"
     
