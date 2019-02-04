@@ -58,5 +58,5 @@ def runner
   end_game(sum)
 end	
 end
-return "Sorry, you hit 30. Thanks for playing!"
+
     
