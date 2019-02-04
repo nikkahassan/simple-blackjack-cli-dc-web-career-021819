@@ -50,7 +50,7 @@ end
 def runner
   welcome
   sum = initial_round
-  begin
+  
     sum = hit?(sum)
     display_card_total(sum)
  end
